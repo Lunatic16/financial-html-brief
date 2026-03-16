@@ -2,6 +2,8 @@
 
 A Claude/Gemini/Qwen skill that converts financial research, market data, and investment analysis into polished, interactive HTML presentations — ready for VP or senior stakeholder review.
 
+This skill is meant to be used in tandem with the [Deep Financial Reasearch Skill](https://github.com/Lunatic16/deep-financial-research.
+
 ---
 
 ## What it does
